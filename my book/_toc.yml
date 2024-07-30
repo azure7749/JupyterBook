@@ -1,0 +1,24 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Omeka-S
+    chapters:
+    - file: OmekaS/Omeka-S.md
+  - caption: Week 1
+    chapters:
+    - file: W1/Speed Camera.ipynb
+    - file: W1/LML.md
+  - caption: Week 2
+    chapters:
+      - file: W2/Git.ipynb
+  - caption: Week 3
+    chapters:
+      - file: W3/QGIS.md
+      - file: W3/OpenStreetMap.md
+      - file: W3/OSM.ipynb
+
+
+
